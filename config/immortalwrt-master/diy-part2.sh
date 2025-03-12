@@ -30,3 +30,5 @@ svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/
 #
 # ------------------------------- Other ends -------------------------------
 
+add openclash
+echo 'src-git OpenClash https://github.com/vernesong/OpenClash.git' >>feeds.conf.default
